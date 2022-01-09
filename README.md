@@ -1,3 +1,3 @@
-# Realestate-presale-project
+# Proposed metashiba presale project
 
-Presale project for real estate project (BEP20 token, presale, auto distribution smart contracts)
+Presale project for METASHIBA PROJECT (BEP20 token, presale, auto distribution smart contracts)
